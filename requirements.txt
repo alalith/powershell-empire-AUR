@@ -27,3 +27,7 @@ PyMySQL
 SQLAlchemy-Utc
 prompt-toolkit
 pycryptodomex
+docopt
+terminaltables
+humanize
+pydantic
