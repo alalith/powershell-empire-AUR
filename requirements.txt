@@ -33,3 +33,4 @@ humanize
 pydantic
 jq
 donut
+websockify
