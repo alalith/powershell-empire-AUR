@@ -31,3 +31,4 @@ docopt
 terminaltables
 humanize
 pydantic
+jq
