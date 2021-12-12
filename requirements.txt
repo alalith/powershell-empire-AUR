@@ -32,3 +32,4 @@ terminaltables
 humanize
 pydantic
 jq
+donut
