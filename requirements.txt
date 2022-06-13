@@ -34,3 +34,4 @@ pydantic
 jq
 donut
 websockify
+pyperclip
